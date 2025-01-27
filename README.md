@@ -1,5 +1,5 @@
 ![Static Badge](https://img.shields.io/badge/License-MIT-blue)
 
-# LeetCode
+# leetcode
 
-This repository is dedicated to LeetCode problems. Is it not intended for use beyond myself.
+This repository is dedicated to LeetCode problem solutions. Is it not intended for use beyond myself.
